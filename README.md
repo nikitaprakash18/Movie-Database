@@ -17,7 +17,7 @@ The following functionality is completed:
 8. All data are stored in FireBase and even data are available offline.
 9. User has option to signout if your not a guest user.
 
-Getting Started
+# Getting Started
 
 To get started and run the app, you need to follow these simple steps:
 
