@@ -1,6 +1,6 @@
 # Movie Database
 
-#####Movie Database is a movies app using the [The Movie Database API](https://developers.themoviedb.org)
+##### Movie Database is a movies app using the [The Movie Database API](https://developers.themoviedb.org)
 
 # User Stories
 
@@ -37,4 +37,4 @@ This project is written in Swift 4.2 and requires Xcode 10.1 to build and run.
 
 # Demo
 
-![Alt Text](https://drive.google.com/file/d/1LkBt-ec3n3VwM_B48PIRUtk4rpns8Ph3/view?usp=sharing)
+[Gif](https://drive.google.com/file/d/1LkBt-ec3n3VwM_B48PIRUtk4rpns8Ph3/view?usp=sharing)
